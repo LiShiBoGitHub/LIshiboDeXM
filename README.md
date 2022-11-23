@@ -39,3 +39,39 @@
 1. 物理
    1. 粒子物理
    2. 流体物理
+
+
+编号|游戏名称|销量|价格
+---|:--:|:__:|---:
+1|王者荣耀|1000|20$
+2|英雄联盟|16516|126$
+3|穿越火线|64664|46$
+
+`printf("output Msg");`
+
+(```)
+	function(){
+		printf("call system function");
+	}
+	function();
+(```)
+
+```c
+	#include<stdio.h>
+	int main(void)
+	{
+	printf("测试语句");
+	return 0;
+	}
+```
+
+```python
+	import os;
+```
+
+```bash
+	echo"执行命令"
+```
+
+
+
